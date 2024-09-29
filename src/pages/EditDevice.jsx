@@ -147,3 +147,4 @@ const EditDevice = ({ device, onClose }) => {
 };
 
 export default EditDevice;
+

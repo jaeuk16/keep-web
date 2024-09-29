@@ -33,3 +33,4 @@ const ImageDropZone = ({ setImageFile, setImgUrl }) => {
 };
 
 export default ImageDropZone;
+
